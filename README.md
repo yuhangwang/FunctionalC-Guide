@@ -1,4 +1,4 @@
-# FunctionalC-Guide
+# Functional C++ Guide
 Guide to functional programming in C++
 
 
