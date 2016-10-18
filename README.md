@@ -2,7 +2,7 @@
 Guide to functional programming in C++
 
 
-## Promising
+## Libraries
 * [cat](https://github.com/cat/cat)
   - pros
     - active
@@ -20,3 +20,7 @@ Guide to functional programming in C++
  
 ## Functional data structures
 * [Okasaki](https://github.com/BartoszMilewski/Okasaki)
+
+
+## Blogs
+* [Functional C++: Abusing the type system like never before](https://functionalcpp.wordpress.com/)
